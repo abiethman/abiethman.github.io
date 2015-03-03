@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /
-  excerpt: Get Started Here!
+- title: About
+  url: /about
+  excerpt: About Andrea
+  image:
+
+  - title: Asanas
+  url: /asanas
+  excerpt: Poses
+  image:
+
+  - title: Recipes
+  url: /Recipes
+  excerpt: Yummy food
+  image:
+
+  - title: Blog
+  url: /blog
+  excerpt: Read my blog
   image:
