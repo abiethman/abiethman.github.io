@@ -15,3 +15,7 @@
 - title: Blog
   url: /blog
   excerpt: "Read my blog"
+
+- title: Contact
+  url: /contact
+  excerpt: "contact me"
