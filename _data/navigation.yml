@@ -2,20 +2,16 @@
 
 - title: About
   url: /about
-  excerpt: About Andrea
-  image:
+  excerpt: "About Andrea"
 
-  - title: Asanas
+- title: Asanas
   url: /asanas
-  excerpt: Poses
-  image:
+  excerpt: "Poses"
 
-  - title: Recipes
-  url: /Recipes
-  excerpt: Yummy food
-  image:
+- title: Recipes
+  url: /recipes
+  excerpt: "Yummy food"
 
-  - title: Blog
+- title: Blog
   url: /blog
-  excerpt: Read my blog
-  image:
+  excerpt: "Read my blog"
