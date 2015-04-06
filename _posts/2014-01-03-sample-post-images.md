@@ -16,7 +16,7 @@ Here are some examples of what a post with images might look like. If you want t
 ### One Up
 
 <figure>
-	<a href="{{ site.url }}/images/disneyland.jpg"><img src="{{ site.url }}/images/disneyland.jpg"></a>
+	<a href="{{ site.url }}/images/disneyland.jpg"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/yoga_zpsm93t2zv6.jpg"></a>
 	<figcaption><a href="http://hmfaysal.github.io/" data-toggle="tooltip" title="Visit my website">A day at Disneyland, Tokyo</a>.</figcaption>
 </figure>
 

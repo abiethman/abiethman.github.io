@@ -1,9 +1,9 @@
 title:            Andrea Biethman
 description:      "Yoga & Nutrition"
 logo:             
-disqus_shortname: hmfaysal
+disqus_shortname: abiethman
 # Assign a default image for your site's header and footer
-default_bg:       flower.jpg
+default_bg:       pink2.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -18,8 +18,8 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:             /hmfaysal-omega-theme
-baseurl:                        /hmfaysal-omega-theme
+url:             /hmfaysal-omega-theme/
+baseurl:                        /hmfaysal-omega-theme/
 
 # Owner/author information
 owner:
