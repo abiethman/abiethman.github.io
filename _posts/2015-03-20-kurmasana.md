@@ -4,7 +4,7 @@ type: photo
 title: "Kurmasana"
 description: "First Post"
 headline: "Getting Bendy"
-category: photos
+category: Yoga
 tags: [yoga, images]
 imagefeature: yoga.jpg
 comments: true
