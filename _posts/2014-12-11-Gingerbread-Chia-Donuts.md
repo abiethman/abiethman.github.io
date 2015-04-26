@@ -1,11 +1,12 @@
 ---
 layout: post
+type: photo
 title: "Gingerbread Chia Donuts"
 description: ""
 headline: ""
 category: Recipes
 tags: [food, images]
-imagefeature: flower.jpg
+imagefeature: chiadonut.jpg
 comments: true
 share: true
 featured: false
@@ -14,7 +15,7 @@ published: true
 
 &nbsp;
 
-<img class="aligncenter" src="http://i1208.photobucket.com/albums/cc370/apegg23/IMG_0439_zps4def7210.jpg" alt="" />
+<center><img src="http://i1208.photobucket.com/albums/cc370/apegg23/IMG_0439_zps4def7210.jpg"></center>
 <div style="text-align: center;">2 cups flour</div>
 <div style="text-align: center;">1 tsp baking soda</div>
 <div style="text-align: center;">1/4 tsp salt</div>

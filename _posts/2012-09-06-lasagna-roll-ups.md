@@ -5,7 +5,7 @@ description: ""
 headline: ""
 category: Recipes
 tags: [food, images]
-imagefeature: flower.jpg
+imagefeature: green2.jpg
 comments: true
 share: true
 featured: false

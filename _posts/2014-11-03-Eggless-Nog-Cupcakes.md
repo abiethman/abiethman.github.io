@@ -1,11 +1,12 @@
 ---
 layout: post
+type: photo
 title: "Eggless Nog Cupcakes"
 description: ""
 headline: ""
 category: Recipes
 tags: [food, images]
-imagefeature: flower.jpg
+imagefeature: nogcupcake.jpg
 comments: true
 share: true
 featured: false

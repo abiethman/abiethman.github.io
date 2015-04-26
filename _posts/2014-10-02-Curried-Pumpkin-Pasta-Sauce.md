@@ -1,16 +1,18 @@
 ---
 layout: post
+type: photo
 title: "Curried Pumpkin Pasta Sauce"
 description: ""
 headline: ""
 category: Recipes
 tags: [food, images]
-imagefeature: flower.jpg
+imagefeature: pumpkinpasta.png
 comments: true
 share: true
 featured: false
 published: true
 ---
+
 
 <p style="text-align: center;">When I think of fall pumpkin dishes, I usually think of something sweet.  Pumpkin pie, <a href="http://www.andreabiethman.com/?p=537" target="_blank">pumpkin spice latte</a>, you get the idea.  So I wanted to play around with a savory pumpkin recipe.  I decided to whip up a pumpkin curry pasta sauce.</p>
 <p style="text-align: center;"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/pumpkinpasta_zpsa9a537c4.png" alt="" /></p>

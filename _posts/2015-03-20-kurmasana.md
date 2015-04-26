@@ -2,16 +2,17 @@
 layout: post
 type: photo
 title: "Kurmasana"
-description: "First Post"
-headline: "Getting Bendy"
+description: "Just hanging out"
+headline: "Getting Bendy!"
 category: Yoga
-tags: [yoga, images]
+tags: [yoga, asana]
 imagefeature: yoga.jpg
 comments: true
 share: true
 featured: true
 published: true
 ---
+
 
 
 

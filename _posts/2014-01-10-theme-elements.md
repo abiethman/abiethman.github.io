@@ -7,6 +7,7 @@ headline: Discover the theme elements
 tags: [Jekyll, HMFAYSAL OMEGA]
 imagefeature: picture-38.jpg
 comments: true
+published: false
 mathjax: true
 ---
 I've put together a little post to introduce you to the HMFAYSAL OMEGA theme and get you started with Markdown. Go ahead and edit this post to get going and learn how it all works!

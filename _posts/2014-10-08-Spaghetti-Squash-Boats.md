@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Curried Pumpkin Pasta Sauce"
+type: photo
+title: "Spaghtti Squash Boats"
 description: ""
 headline: ""
 category: Recipes
 tags: [food, images]
-imagefeature: flower.jpg
+imagefeature: spaghttiboat.png
 comments: true
 share: true
 featured: false
