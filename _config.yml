@@ -1,6 +1,6 @@
-title:            Andrea Biethman
+title:            
 description:      "Yoga & Nutrition"
-logo:             
+logo:             andreabiethman.png
 disqus_shortname: abiethman
 # Assign a default image for your site's header and footer
 default_bg:       wood.jpg
@@ -11,8 +11,8 @@ readtime:         true
 # Specify the average Words per minute. If not defined, 180 will be used
 wpm:              200
 # Turn on or off the fin animations in the header and footer
-triangleheader:   false
-animated_fins:    false
+triangleheader:   true
+animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "128,128,128"
 # Change url to your domain. Leave localhost server or blank when working locally.
