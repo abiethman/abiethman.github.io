@@ -18,7 +18,7 @@ tags: [contact]
 	</li>
 	<li>
 		<figure>
-			<a href="https://twitter.com/abhealthcoach" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/twitter_zpslgouorar.png"></a>
+			<a href="https://twitter.com/yoginiandrea" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/twitter_zpslgouorar.png"></a>
 		</figure>
 	</li>
 	<li>
