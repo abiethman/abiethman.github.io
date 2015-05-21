@@ -1,6 +1,6 @@
 title:            
 description:      "Yoga & Nutrition"
-logo:             andreabiethman.png
+logo:             andreabiethman1.png
 disqus_shortname: abiethman
 # Assign a default image for your site's header and footer
 default_bg:       wood.jpg
@@ -41,7 +41,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-63219341-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
