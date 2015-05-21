@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photo
-title: "Spaghtti Squash Boats"
+title: "Spaghetti Squash Boats"
 description: ""
 headline: ""
 category: Recipes
