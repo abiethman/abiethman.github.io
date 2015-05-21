@@ -12,14 +12,14 @@ readtime:         true
 wpm:              200
 # Turn on or off the fin animations in the header and footer
 triangleheader:   true
-animated_fins:    true
+animated_fins:    false
 # Specify the fin color in RGB value
 fin_color:        "128,128,128"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:             /hmfaysal-omega-theme/
-#baseurl:                        /hmfaysal-omega-theme/
+url:              /
+#baseurl:         /
 
 # Owner/author information
 owner:
@@ -53,6 +53,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: About
+    url: /about
   - title: <i class="icon-book"></i> Documentation
     url: /documentation
   - title: Categories
