@@ -12,15 +12,22 @@ featured: false
 published: true
 ---
 
-<p style="text-align: center;">When I found out I was pregnant with Violet I obviously stopped drinking any alcohol. She will be 9 months next week and I still haven't had any liquor!  I feel like it doesn't benefit my health etc.  I still love the taste of virgin drinks though! Here is my virgin piña colada.</p>
-<img class="aligncenter" alt="" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn1/1011935_315448528591153_2040886266_n.jpg" />
-<p style="text-align: center;"><strong>Ingredients:</strong></p>
-<p style="text-align: center;">1/2 frozen pineapple chunked</p>
-<p style="text-align: center;">1 frozen banana</p>
-<p style="text-align: center;">1 T sweetener</p>
-<p style="text-align: center;">Juice from 1 lemon</p>
-<p style="text-align: center;">8 oz coconut water (either bottled, or straight from the coconut)</p>
-<p style="text-align: center;">1-2 cups of water</p>
-<p style="text-align: center;">2 cups of ice</p>
-<p style="text-align: center;"><strong>Directions: </strong></p>
-<p style="text-align: center;">Add all to your blender and blend until smooth.</p>
+When I found out I was pregnant with Violet I obviously stopped drinking any alcohol. She will be 9 months next week and I still haven't had any liquor!  I feel like it doesn't benefit my health etc.  I still love the taste of virgin drinks though! Here is my virgin piña colada.
+
+
+<figure>
+	<img src="http://i1208.photobucket.com/albums/cc370/apegg23/18948_396676087110993_1034567859_n_zpsys66zaph.jpg">
+</figure>
+
+##Ingredients:
+
+* 1/2 frozen pineapple chunked
+* 1 frozen banana
+* 1 T sweetener
+* Juice from 1 lemon
+* 8 oz coconut water (either bottled, or straight from the coconut)
+* 1-2 cups of water
+* 2 cups of ice
+
+##Directions:
+Add all to your blender and blend until smooth.
