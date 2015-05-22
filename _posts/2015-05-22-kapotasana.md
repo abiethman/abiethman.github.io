@@ -14,7 +14,7 @@ published: true
 ---
 
 ####I really really love backbends.
-They make me feel so good.  I can't say for sure why, maybe it's my overly big boobs (which make me slouch, somtimes) or because it's such a challenge.
+They make me feel so good.  I can't say for sure why, maybe it's my big boobs (which make me slouch, somtimes) or because it's such a challenge.
 
 <figure>
 	<img src="http://i1208.photobucket.com/albums/cc370/apegg23/kapotasana1_zps0qizgryz.jpg">
