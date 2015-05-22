@@ -35,3 +35,7 @@ A couple of warm up poses
 	<img src="http://i1208.photobucket.com/albums/cc370/apegg23/wheelpose_zpstusn1atp.jpg">
 	<img src="http://i1208.photobucket.com/albums/cc370/apegg23/bowpose_zps78psffse.jpg">
 </figure>
+
+What poses are your favorite? Let me know below!!
+
+xx
