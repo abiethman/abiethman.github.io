@@ -2,7 +2,7 @@
 layout: post
 type: photo
 title: "Pop-Up Yoga: Kansas City"
-description: ""
+description: "Headstands"
 category: Yoga
 tags: [yoga, headstands, asana]
 imagefeature: yoga3.jpg
