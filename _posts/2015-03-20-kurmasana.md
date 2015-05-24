@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photo
-title: "Kurmasana"
+title: "Supta Kurmasana"
 description: "Just hanging out"
 headline: "Getting Bendy!"
 category: Yoga
@@ -21,4 +21,4 @@ published: true
   <figcaption><a href="http://abiethman.github.io/" data-toggle="tooltip" title="Visit my website">Kurmasana</a>.</figcaption>
 </figure>
 
-First time in Kurmasana.
+First time in Supta Kurmasana.
