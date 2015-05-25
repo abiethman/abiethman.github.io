@@ -28,7 +28,7 @@ tags: [contact]
 	</li>
 	<li>
 		<figure>
-			<a href="mailto:webmaster@example.com"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/email_zpsrq97cnxg.png"></a>
+			<a href="mailto:abiethman@gmail.com"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/email_zpsrq97cnxg.png"></a>
 		</figure>
 	</li>
 </ul>
