@@ -34,7 +34,7 @@ Lotus headstand with a twist!
 
 I'm really starting to love hollow backs. Now I need to start practicing without a wall.
 
-I also recently found out that I will most likely be teaching a yoga class (my very first!) this Sunday. It'll be a hot vinyasa around 90 minutes long. Come join me!
+I also recently found out that I will most likely be teaching a yoga class (my very first!) this Sunday at 6pm. It'll be a hot vinyasa around 90 minutes long. <a href="http://zenzoneyoga.com/" target="_blank">Come join me!</a>
 
 How did you spend your 4th of July? What were your favorite foods? Do you have any traditions?
 
