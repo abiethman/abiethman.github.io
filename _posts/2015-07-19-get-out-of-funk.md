@@ -6,7 +6,7 @@ description: "Chill out!"
 headline: ""
 category: Yoga
 tags: [yoga, ahimsa]
-imagefeature: hollow2.jpg
+imagefeature: hollow21.jpg
 comments: true
 share: true
 featured: true
