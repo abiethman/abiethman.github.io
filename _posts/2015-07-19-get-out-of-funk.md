@@ -45,6 +45,7 @@ As I was driving home I had a biker chick flip me off. I drove home and decided 
 </figure>
 
 So what do you do to get out of a rut? For me, these things helped:
+
 -Chill out. I spend so much of my free time working out or being busy, this is a must
 
 -Drink more water. Trust me.
