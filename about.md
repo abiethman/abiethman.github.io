@@ -13,4 +13,8 @@ image:
   
 </figure>
 
-####Hello, I'm Andrea. I'm a 26 year old wife & mother of two. I'm passionate about sharing amazing vegan recipes and my yoga journey. Follow me on my yoga teacher training journey - starting June 2015. 
+Andrea began practicing yoga to reduce the stress and anxiety of raising her two young kids. Shortly after her first studio practice she began doing yoga regularly and decided to become a teacher herself. She loves teaching classes that are fun and challenging.
+
+Andrea lives with her husband and two daughters. A transplant from Illinois, she now calls Kansas City home. In her spare time she's practicing inversions and backbends, running, and cooking lots of vegan food.
+
+Working on completing her 200 RYT at The Zen Zone, Andrea looks forward to practicing yoga with you!
