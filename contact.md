@@ -13,12 +13,12 @@ tags: [contact]
 	</li>
 	<li>
 		<figure>
-			<a href="https://www.facebook.com/AndreaBiethmanHealthCoaching" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/facebook_zpsqffqockn.png"></a>
+			<a href="https://www.facebook.com/AndreaBiethmanYoga" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/facebook_zpsqffqockn.png"></a>
 		</figure>
 	</li>
 	<li>
 		<figure>
-			<a href="https://twitter.com/yoginiandrea" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/twitter_zpslgouorar.png"></a>
+			<a href="https://twitter.com/BiethmanYoga" target="_blank"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/twitter_zpslgouorar.png"></a>
 		</figure>
 	</li>
 	<li>
@@ -28,7 +28,7 @@ tags: [contact]
 	</li>
 	<li>
 		<figure>
-			<a href="mailto:abiethman@gmail.com"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/email_zpsrq97cnxg.png"></a>
+			<a href="mailto:andrea@andreabiethman.com"><img src="http://i1208.photobucket.com/albums/cc370/apegg23/email_zpsrq97cnxg.png"></a>
 		</figure>
 	</li>
 </ul>
