@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F*ck the 'shoulds' "
+title: "F*ck the 'shoulds'"
 description: ""
 headline: ""
 category: Motivation
