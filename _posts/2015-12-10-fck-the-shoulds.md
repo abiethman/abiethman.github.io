@@ -12,16 +12,15 @@ featured: false
 published: true
 ---
 <figure>
-  <img src="
-https://scontent-ord1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-0/p480x480/11891100_1626776974206583_3335920953337812">
+  <img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-0/p480x480/11891100_1626776974206583_3335920953337812891_n.jpg?oh=a757bce9200511a232eb63926b117425&oe=56DC7C27">
 </figure>
 
-891_n.jpg?oh=a757bce9200511a232eb63926b117425&oe=56DC7C27
-####I'm so sick of the "shoulds". 
+
+##I'm so sick of the "shoulds". 
 
 The things in life we want to do, that will make us better people. The New Years resolutions we always seem to ditch by mid January, or February if we're lucky. The promises we make ourselves but don't keep.
 
-##Why wait until January to make some goals?
+####Why wait until January to make some goals?
 
 Let's start now. We're more likely to see these promises through. Here are a few things I'd like to work on:
 
