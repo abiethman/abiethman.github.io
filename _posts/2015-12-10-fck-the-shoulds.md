@@ -25,13 +25,21 @@ The things in life we want to do, that will make us better people. The New Years
 Let's start now. We're more likely to see these promises through. Here are a few things I'd like to work on:
 
 ####Attend a yoga class 2x a week & meditate more
+
 ####Workout 3x a week
+
 ####Add leafy greens to each meal
+
 ####Update my blog & work on my secret project ;)
+
 ####Read two new books a month
+
 ####Start a fitness Instagram account!
+
 ####Meet up with friends once a month
+
 ####Take myself out on a date! Antique stores, lunch, shopping - I spend so much time with my kids this is definitely a must!
+
 ####Get some good one on one time with my husband - again, another must.
 
 So, what are some goals you want to achieve for 2016?  Let's make it the best year yet!
