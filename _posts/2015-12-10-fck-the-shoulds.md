@@ -24,7 +24,7 @@ The things in life we want to do, that will make us better people. The New Years
 
 Let's start now. We're more likely to see these promises through. Here are a few things I'd like to work on:
 
-####Attend a yoga class 2x a week
+####Attend a yoga class 2x a week & meditate more
 ####Workout 3x a week
 ####Add leafy greens to each meal
 ####Update my blog & work on my secret project ;)
