@@ -42,6 +42,8 @@ Let's start now. We're more likely to see these promises through. Here are a few
 
 ####Get some good one on one time with my husband - again, another must.
 
+####Spend less time on the internet, & more time in nature.
+
 So, what are some goals you want to achieve for 2016?  Let's make it the best year yet!
 
 xxAndrea
